@@ -100,6 +100,7 @@ An interactive dashboard was developed to visualize key insights.
 This project was developed as part of a data analysis assessment, demonstrating end-to-end analytical and visualization skills.
 
 Data link from kaggle: https://www.kaggle.com/datasets/rivalytics/er-wait-time
+
 ---
 
 
