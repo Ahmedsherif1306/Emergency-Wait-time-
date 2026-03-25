@@ -59,7 +59,7 @@ Key analyses performed:
 
 An interactive dashboard was developed to visualize key insights.
 
-![Dashboard](Dashboard/Untitled design.gif)
+![Dashboard](Dashboard/ER_wait_time.gif)
 
 ### 🔝 KPIs
 
