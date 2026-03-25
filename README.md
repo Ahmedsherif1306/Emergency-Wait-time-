@@ -58,7 +58,8 @@ Key analyses performed:
 ## 📊 Dashboard (Power BI)
 
 An interactive dashboard was developed to visualize key insights.
-![Dashboard](images/dashboard.png)
+
+![Dashboard](Dashboard/Untitled design.gif)
 
 ### 🔝 KPIs
 
