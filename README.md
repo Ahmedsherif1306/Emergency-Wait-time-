@@ -71,16 +71,15 @@ An interactive dashboard was developed to visualize key insights.
 
 ---
 
+
 ## 💡 Key Insights
 
-* more than 70 % of pateints suffer from high wait time
-* the Average Satisfaction is 2.77
-* Longer waiting times are strongly associated with lower patient satisfaction
-* the increase in staff make increase in wait time so the staff is not working well
-* critical patients take much shorter wait time
-* the wait time increases at evening
-
-
+* More than **70% of patients experience long waiting times**, indicating significant operational delays.
+* The **average patient satisfaction score is 2.77**, reflecting a generally low level of satisfaction.
+* There is a strong negative relationship between **waiting time and patient satisfaction** — longer waits lead to lower satisfaction.
+* Despite higher staff availability, **waiting times tend to increase**, suggesting potential inefficiencies in staff utilization.
+* **Critical patients receive faster medical attention**, indicating effective prioritization in emergency cases.
+* Waiting times are noticeably higher during the **evening hours**, highlighting peak demand periods.
 
 ---
 
